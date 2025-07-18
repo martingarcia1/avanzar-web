@@ -1,8 +1,29 @@
-# React + Vite
+# Avanzar Group - Sitio Web Oficial
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Acerca de Nosotros
 
-Currently, two official plugins are available:
+Avanzar Group es un estudio integral que combina contabilidad, administración, marketing digital y desarrollo tecnológico para potenciar a emprendedores, profesionales y empresas. Ofrecemos soluciones prácticas y personalizadas que permiten organizar, mejorar y escalar cada proyecto, adaptándonos a las necesidades reales del mercado actual.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Nuestros Servicios
+
+Contamos con un equipo especializado en:
+- Servicios contables e impositivos
+- Asesoramiento administrativo
+- Diseño de páginas web
+- Gestión de redes sociales
+- Desarrollo de software a medida
+
+## Nuestra Filosofía
+
+En Avanzar Group creemos que el éxito se construye con herramientas, estrategia y un buen acompañamiento. Por eso trabajamos con compromiso, innovación y cercanía, ayudando a cada persona o empresa a avanzar con confianza, profesionalismo y visión de futuro.
+
+## Nuestro Equipo
+
+- **Lorena Montenegro** - Directora del Estudio (C.P.N)
+- **Rocio Mahafud** - Marketing Digital y Redes
+- **Carolina Moyano** - Diseñadora Gráfica
+- **Sergio Martin Garcia** - Programador
+
+## Tecnologías Utilizadas
+
+Este sitio web está desarrollado utilizando React + Vite, proporcionando una experiencia de usuario moderna y eficiente.
