@@ -32,3 +32,13 @@ Este sitio web está desarrollado utilizando React + Vite, proporcionando una ex
 ### 📬 ¡Contáctanos!
 
 ¿Listo para hacer crecer tu negocio? ¡Nuestro equipo está aquí para ayudarte!
+
+#### 📲 Nuestros Canales de Contacto
+
+- ✉️ **Email:** avanzar.group1@gmail.com
+- 📱 **WhatsApp:** [(381) 602-4467](https://wa.me/3816024467)
+- 📸 **Instagram:** [@avanzar.group](https://www.instagram.com/avanzar.group/)
+
+¡Síguenos en redes sociales y mantente al día con nuestras últimas novedades!
+
+
