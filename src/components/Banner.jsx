@@ -1,4 +1,4 @@
-import logo from '../assets/1.png';
+import logo from '../assets/img/Diseño sin título (28).png';
 
 const Banner = () => {
     return (
